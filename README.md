@@ -21,7 +21,9 @@ Se obtienen los embeddings de las descripciones usando BERT. Estos embeddings so
 #### *Cálculo de similitud*:
 Aplicando la fórmula de similitud del coseno: 
 
-**$cos(θ) = \frac{e_1 \cdot e_2}{\|e_1\| \|e_2\|}$**
+$$
+cos(θ) = \frac{e_1 \cdot e_2}{\|e_1\| \|e_2\|}
+$$
 
 Donde: 
 
