@@ -18,7 +18,7 @@
 #### *Obtención de Embeddings*:
 Se obtienen los embeddings de las descripciones usando BERT. Estos embeddings son vectores en un espacio de alta dimensión que representan las descripciones.
 
-#### *Calculo de similitud*:
+#### *Cálculo de similitud*:
 Aplicando la fórmula de similitud del coseno: 
 
 **$cos(θ) = \frac{e_1 \cdot e_2}{\|e_1\| \|e_2\|}$**
