@@ -9,7 +9,7 @@
 
 #### **Este trabajo consiste en la aplicación del modelo pre entrenado BERT para crear una función de 'Product Matching' para comparar precios de productos idénticos, pero escritos de manera diferente.**
 
-#### **'Product Matching' es un tipo de solución de IA que consiste en identificar y emparejar productos que son esencialmente iguales o muy similares, aunque estén descritos de maneras diferentes en diferentes bases de datos o sitios web. Este proceso es de alta importancia rubros como el comercio electrónico, donde varios proveedores pueden ofrecer el mismo producto con descripciones, nombres y formatos de datos diferentes.**
+#### **'Product Matching' es un tipo de solución de IA que consiste en identificar y emparejar productos que son esencialmente iguales o muy similares, aunque estén descritos de maneras diferentes en distintas bases de datos o sitios web. Este proceso es de alta importancia rubros como el comercio electrónico, donde varios proveedores pueden ofrecer el mismo producto con descripciones, nombres y formatos de datos diferentes.**
 
 ---
 
